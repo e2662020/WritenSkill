@@ -1,0 +1,6 @@
+interface:
+  display_name: "超级编剧大师"
+  short_description: "主角驱动、三幕式与麦基方法的全流程中文剧本创作助手"
+  default_prompt: "使用 $screenwriting-master 按步骤帮助我开发并创作一部剧本。"
+policy:
+  allow_implicit_invocation: true
